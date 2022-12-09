@@ -1,0 +1,9 @@
+bool b := 1 <= 3;
+bool c := b & true;
+long num1 := 1;
+double num2 := 1.0000;
+bool res := num1 = num2 | (!c != b);
+char ch := res & false;
+short s := ch + 1;
+float f := s * (0.333 - 1.567);
+bool key := !(res + 15);

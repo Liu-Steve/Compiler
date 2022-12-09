@@ -1,0 +1,5 @@
+[TOKEN]
+
+[IDENTIFIER]
+
+[CONST]

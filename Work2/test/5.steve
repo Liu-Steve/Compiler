@@ -1,0 +1,4 @@
+nums = 3.1415926;
+print(nums);
+int f :=. 789;
+f := f + 1;

@@ -1,0 +1,4 @@
+int num := 0;
+num := 1 + 2 - 3;
+num := num * num;
+num := num / 3.14159;

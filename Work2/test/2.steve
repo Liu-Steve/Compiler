@@ -1,0 +1,21 @@
+function int f(int i)
+{
+    if (i >= 0)
+    {
+        i := i * i;
+    }
+    else
+    {
+        i := i - 1;
+    }
+    i;
+}
+
+int main(char ch)
+{
+    int num := ch;
+    while(num)
+    {
+        f(num);
+    }
+}

@@ -1,0 +1,4 @@
+nums = 3.1415926;
+print(nums);
+float f = 0123;
+f := f + 1;
